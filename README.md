@@ -2,14 +2,6 @@
 
 This is a simple chat application built with Go programming language using WebSocket for real-time communication.
 
-## Group Members
-
-- Wesley Dam
-- Amar Gandhi
-- Phu Truong
-- Joseph Setiawan
-- Samuel Araya
-
 ## Features
 
 - Real-time messaging: Users can send and receive messages instantly.
